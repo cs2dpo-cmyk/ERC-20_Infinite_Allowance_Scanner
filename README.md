@@ -1,4 +1,4 @@
-# 🔍 ERC-20 Unlimited Allowance Scanner & Revoker
+# 🔍 ERC-20 Infinite Allowance Scanner & Revoker
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Web3.py](https://img.shields.io/badge/Web3.py-v6.0%2B-orange)
